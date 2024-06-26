@@ -1,5 +1,5 @@
-Game.log
+Game.tmp
 x64/Debug/
-Assets/shader/util/*.fx
-**/temp/*.log
+Assets/shader/util/*.DDS
+**/shader/*.h
 Game.vcxproj.user
