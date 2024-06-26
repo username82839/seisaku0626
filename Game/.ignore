@@ -1,0 +1,5 @@
+Game.log
+x64/Debug/
+Assets/shader/util/*.fx
+**/temp/*.log
+Game.vcxproj.user
